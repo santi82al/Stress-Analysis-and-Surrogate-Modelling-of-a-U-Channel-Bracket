@@ -1,0 +1,12 @@
+Parameter,model_301
+Description,Results-writer test div=24
+b_geo,50
+m_geo,50
+n_geo,50
+t_geo,5
+f_geo,5
+e_geo,5
+i_geo,6
+P_load,3000
+wall_thk,10
+mesh_div,24

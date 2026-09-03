@@ -1,0 +1,11 @@
+Parameter,test_1
+Description,Predictor test case (mid-DOE geometry)
+b_geo,55
+m_geo,45
+n_geo,35
+t_geo,5.5
+f_geo,6
+e_geo,4.5
+i_geo,7
+P_load,4000
+wall_thk,11
